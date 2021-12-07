@@ -1,0 +1,303 @@
+1638873669843	geckodriver	INFO	Listening on 127.0.0.1:53607
+1638873673138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53608" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilewcsDO5"
+1638873674144	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilewcsDO5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53608/devtools/browser/2007b420-fdf7-4810-b8b0-ef72d8c89043
+1638873679411	Marionette	INFO	Listening on port 53613
+1638873679574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638873680823	Marionette	INFO	Stopped listening on port 53613
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638873744375	geckodriver	INFO	Listening on 127.0.0.1:53670
+1638873747484	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53671" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilesJ9vhi"
+1638873748269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilesJ9vhi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53671/devtools/browser/041d0973-df64-4a96-8c46-ae95b7ff9b78
+1638873752667	Marionette	INFO	Listening on port 53676
+1638873752876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1638873840182	Marionette	INFO	Stopped listening on port 53676
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638875346724	geckodriver	INFO	Listening on 127.0.0.1:55898
+1638875349840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55899" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilen8YFhU"
+1638875350897	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilen8YFhU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55899/devtools/browser/76d7d989-7dc2-4ae1-967b-1a06a28b91da
+1638875355975	Marionette	INFO	Listening on port 55906
+1638875356292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1638875445032	Marionette	INFO	Stopped listening on port 55906
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638875455905	geckodriver	INFO	Listening on 127.0.0.1:55993
+1638875459007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55994" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileip1JHv"
+1638875459698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileip1JHv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55994/devtools/browser/f68cd494-6545-434d-b888-e40b761d454f
+1638875464045	Marionette	INFO	Listening on port 56000
+1638875464380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1638875596803	Marionette	INFO	Stopped listening on port 56000
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+--marionette" "--remote-debugging-port" "56090" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileeTt7tz"
+1638875597427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileeTt7tz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56090/devtools/browser/8866ba75-af95-49d6-aaed-4235d2be906e
+1638875602021	Marionette	INFO	Listening on port 56096
+1638875602289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1638875936264	Marionette	INFO	Stopped listening on port 56096
+8875904291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56217" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile2YJlJU"
+1638875905080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile2YJlJU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56217/devtools/browser/ede67a02-59ba-40c9-a30f-33443db0774e
+1638875909501	Marionette	INFO	Listening on port 56222
+1638875909661	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638876890205	Marionette	INFO	Stopped listening on port 56222
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+AppData\\Local\\Temp\\rust_mozprofilemBxPi1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56280/devtools/browser/7e7a99ac-26d0-4532-85db-013678642bbd
+1638875994059	Marionette	INFO	Listening on port 56285
+1638875994495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1638876107076	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1638876514895	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638876535838	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638876585279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638876607641	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1638876799116	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638876822468	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638876921102	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638876970837	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638876993045	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877068014	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877092161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877164911	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877185961	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877259746	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877281834	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877333437	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638877355874	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1638878839454	Marionette	INFO	Stopped listening on port 56285
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638885756568	geckodriver	INFO	Listening on 127.0.0.1:56287
+1638885759678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56288" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileKDImMQ"
+1638885760779	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileKDImMQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56288/devtools/browser/fbc963ac-2453-4d5e-b90f-258dab72fedb
+1638885765456	Marionette	INFO	Listening on port 56293
+1638885765566	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1638886253721	Marionette	INFO	Stopped listening on port 56293
+8886220633	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56487" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilen7bGK9"
+1638886221260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilen7bGK9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56487/devtools/browser/a2a23762-5c4a-4dd4-b7cf-67cf4198876d
+1638886225564	Marionette	INFO	Listening on port 56493
+1638886225973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638886252577	Marionette	INFO	Stopped listening on port 56493
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1638886266614	geckodriver	INFO	Listening on 127.0.0.1:56542
+1638886269689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56543" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileTsqcOI"
+1638886270341	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileTsqcOI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56543/devtools/browser/0d07b80c-b1a9-4df7-a2d4-430d2429c6eb
+1638886274446	Marionette	INFO	Listening on port 56548
+1638886274539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:65
+unregisterCommandsActor@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:390:15
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2110:3
+onClosed@chrome://remote/content/marionette/server.js:209:17
+close@chrome://remote/content/marionette/transport.js:221:18
+onInputStreamReady@chrome://remote/content/marionette/transport.js:375:14
+
+1638886442826	Marionette	INFO	Stopped listening on port 56548
+1638887095568	geckodriver	INFO	Listening on 127.0.0.1:57597
+1638887098689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57598" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileLSMWZ9"
+1638887099565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileLSMWZ9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57598/devtools/browser/3279d1c5-1587-42ce-8a61-37af5806d304
+1638887103891	Marionette	INFO	Listening on port 57603
+1638887104024	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1638887258685	Marionette	INFO	Stopped listening on port 57603
+8887237974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57710" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0sGPrv"
+1638887238752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0sGPrv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57710/devtools/browser/64f266a4-7127-4d88-9d1d-dc8f19a14423
+1638887242772	Marionette	INFO	Listening on port 57715
+1638887242809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1638887255260	Marionette	INFO	Stopped listening on port 57715
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1638887274969	geckodriver	INFO	Listening on 127.0.0.1:57763
+1638887278044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57764" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileNz9MoW"
+1638887278725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileNz9MoW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57764/devtools/browser/be1290b4-0d35-403e-b937-c576536c4f30
+1638887282907	Marionette	INFO	Listening on port 57769
+1638887283381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 53: TypeError: window.__bufferedErrors is undefined
+1638887611504	Marionette	INFO	Stopped listening on port 57769
